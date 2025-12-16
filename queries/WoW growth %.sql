@@ -42,3 +42,4 @@ FROM
      FROM weekly_totals
     ) AS w;
 
+
