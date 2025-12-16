@@ -18,3 +18,6 @@ The repository includes a CSV file with raw bookstore sales data.
 **IMPORTANT:** 
 To run the SQL queries as-is, import the CSV into your database and name the table: "dbo.Sales"
 This ensures all queries referencing "dbo.Sales" will work correctly.
+
+Note: The bookstore_sales CSV is large and may not be previewed on GitHub. 
+Download the file to use it with the SQL queries.
